@@ -25,7 +25,8 @@ const submenu1 = prefix => {
 ◦  ${prefix}sticker *Repley to photo*
 ◦  ${prefix}twitter *link*
 ◦  ${prefix}ytmp3 *link*
-◦  ${prefix}ytmp4 *link*`
+◦  ${prefix}ytmp4 *link*
+◦  ${prefix}tr *ar/en*...`
 }
 
 const submenu2 = prefix => {
