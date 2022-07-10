@@ -1,5 +1,5 @@
   exports.run = {
-   usage: ['menu', 'help', 'bot'],
+   usage: ['menu', 'help', 'bot', 'MY'],
    async: async (m, {
       client,
       isPrefix
