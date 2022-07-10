@@ -17,8 +17,8 @@ exports.run = {
                })
             } else if (/image/.test(type)) {
                return await client.sendSticker(m.chat, img, m, {
-                  pack: 'bella',
-                  author: 'mohamed'
+                  pack: '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡',
+                  author: '@mr_johan_shezir'
                })
             }
          } else {
@@ -28,8 +28,8 @@ exports.run = {
                let img = await q.download()
                if (!img) return client.reply(m.chat, global.status.wrong, m)
                return await client.sendSticker(m.chat, img, m, {
-                  pack: 'bella',
-                  author: 'mohamed'
+                  pack: '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡',
+                  author: '@mr_johan_shezir'
                })
             } else if (/video/.test(mime)) {
                if ((q.msg || q).seconds > 10) return client.reply(m.chat, Func.texted('bold', `Maximum video duration is 10 seconds.`), m)
