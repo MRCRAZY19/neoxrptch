@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '212632244668'
+global.owner = '212689349938'
 // Owner name
-global.owner_name = 'محمد بلا'
+global.owner_name = '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡'
 // Maximum upload file size limit (Default : 250 MB)
 global.max_upload = 250
 // Delay for spamming protection (Default : 3 seconds)
