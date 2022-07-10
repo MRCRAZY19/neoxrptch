@@ -12,8 +12,8 @@ exports.run = {
             if (/video/.test(type)) {
                if (q.seconds > 10) return client.reply(m.chat, Func.texted('bold', `Maximum video duration is 10 seconds.`), m)
                return await client.sendSticker(m.chat, img, m, {
-                  pack: 'bella',
-                  author: 'mhmd'
+                  pack: '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡',
+                  author: '@mr_johan_shezir'
                })
             } else if (/image/.test(type)) {
                return await client.sendSticker(m.chat, img, m, {
@@ -36,8 +36,8 @@ exports.run = {
                let img = await q.download()
                if (!img) return client.reply(m.chat, global.status.wrong, m)
                return await client.sendSticker(m.chat, img, m, {
-                  pack: 'bella ❤️',
-                  author: 'med '
+                  pack: '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡',
+                  author: '@mr_johan_shezir '
                })
             } else client.reply(m.chat, Func.texted('bold', `Stress ??`), m)
          }
