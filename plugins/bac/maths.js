@@ -23,7 +23,7 @@ exports.run = {
       text += '◦ *💟DEVELOPER* : *𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡*\n'
       text += '◦ *💟INSTAGRAM* : https://Instagram.com/mr_johan_shezir *(v2.2.0)*\n\n'
       text += 'If you find an error or want to upgrade premium plan contact the owner.'
-      await client.sendList(m.chat, '', text, '', 'إضغط هنا!', [{
+      await client.sendList(m.chat, '', text, '', 'CLICK HERE!', [{
          rows
       }], m)
    },
