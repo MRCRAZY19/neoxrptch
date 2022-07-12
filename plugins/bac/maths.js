@@ -9,7 +9,7 @@ exports.run = {
          {
          title: 'LEÇON 1',
          rowId: `${isPrefix}mediafire https://www.mediafire.com/file/4hq1nadce9yq6lz/examens_bac_PC_SC.PHYS_2008_-_2016_avec_corr.rar`,
-         description: `insta : @wox_bella`
+         description: `insta : @mr_johan_shezir`
          },
 
          {
@@ -20,8 +20,8 @@ exports.run = {
 
 ]
       let text = '💟 *MATHEMATIQUES* ❤️😇\n\n'
-      text += '◦ *💟DEVELOPER* : *MOHAMED BELLA*\n'
-      text += '◦ *💟INSTAGRAM* : https://instagram.com/wox_bella *(v2.2.0)*\n\n'
+      text += '◦ *💟DEVELOPER* : *𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡*\n'
+      text += '◦ *💟INSTAGRAM* : https://Instagram.com/mr_johan_shezir *(v2.2.0)*\n\n'
       text += 'If you find an error or want to upgrade premium plan contact the owner.'
       await client.sendList(m.chat, '', text, '', 'إضغط هنا!', [{
          rows
