@@ -1,6 +1,6 @@
 exports.run = {
 
-   usage: ['menu','mo3jam'],
+   usage: ['bot','mo3jam'],
 
    async: async (m, {
 
@@ -30,7 +30,7 @@ exports.run = {
 
      
 
-     if (command == 'menu') {
+     if (command == 'bot') {
 
        
 
