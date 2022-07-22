@@ -89,6 +89,4 @@ const submenu4 = prefix => {
 ◦  ${prefix}+owner *mention or reply*`
 }
 
-const submenu5 = prefix => {
-   return `◦  ${prefix}tr *ar/en*...
-◦  ${prefix}
+
