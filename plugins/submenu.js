@@ -21,20 +21,8 @@ exports.run = {
 }
 
 const submenu1 = prefix => {
-   return `◦  ${prefix}fb *link*
-◦  ${prefix}ig *link*
-◦  ${prefix}mediafire *link*
-◦  ${prefix}play *query*
-◦  ${prefix}pin *link*
-◦  ${prefix}tiktok *link*
-◦  ${prefix}tikmp3 *link*
-◦  ${prefix}sticker *Repley to photo*
-◦  ${prefix}twitter *link*
-◦  ${prefix}ytmp3 *link*
-◦  ${prefix}ytmp4 *link*
-◦  ${prefix}tr *ar/en*...
-◦  ${prefix}s *reply image or video*
-◦  ${prefix}vid *search for video*`
+   return `*◦Contact the developer on WhatsApp wa.me/+212689349938◦*`
+
 }
 
 const submenu2 = prefix => {
@@ -67,6 +55,7 @@ const submenu3 = prefix => {
 ◦  ${prefix}twitter *link*
 ◦  ${prefix}ytmp3 *link*
 ◦  ${prefix}ytmp4 *link*
+◦  ${prefix}vid
 ◦  ${prefix}gitclone (Limit)
 ◦  ${prefix}igstalk
 ◦  ${prefix}wallpaper
@@ -79,7 +68,8 @@ const submenu4 = prefix => {
 ◦  ${prefix}image
 ◦  ${prefix}stickerline 
 ◦  ${prefix}apk
-◦  ${prefix}setmsg`
+◦  ${prefix}setmsg
+◦  ${prefix}vid`
 }
 
 const submenu5 = prefix => {
