@@ -1,5 +1,5 @@
 exports.run = {
-   usage: ['bac','lbac','bella'],
+   usage: ['bac','lbac','taalim'],
    async: async (m, {
       client,
       isPrefix
