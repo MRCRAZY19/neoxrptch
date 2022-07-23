@@ -69,7 +69,9 @@ const submenu4 = prefix => {
 ◦  ${prefix}stickerline 
 ◦  ${prefix}apk
 ◦  ${prefix}setmsg
-◦  ${prefix}vid`
+◦  ${prefix}vid
+◦  ${prefix}google
+◦  ${prefix}play`
 }
 
 const submenu5 = prefix => {
