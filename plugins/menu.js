@@ -5,7 +5,7 @@
       isPrefix
    }) => {
       let rows = [{
-         title: 'ALL-COMMANDS',
+         title: 'HELP',
          rowId: `${isPrefix}menutype 1`,
          description: ``
       }, {
