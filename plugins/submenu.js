@@ -91,13 +91,14 @@ const submenu6 = prefix => {
    return `◦  ${prefix}google
 ◦  ${prefix}googlef
 ◦  ${prefix}gimage
-◦  ${prefix}image
+◦  ${prefix}image 
 ◦  ${prefix}pinterest
 ◦  ${prefix}fetch
 ◦  ${prefix}get
 ◦  ${prefix}kbbi
 ◦  ${prefix}lyrics
-◦  ${prefix}wikipedia`
+◦  ${prefix}wikipedia
+◦  ${prefix}tr`
 }
 
 const submenu7 = prefix => {
@@ -176,5 +177,6 @@ const submenu10 = prefix => {
 ◦  ${prefix}style
 ◦  ${prefix}tts
 ◦  ${prefix}yts
-◦  ${prefix}ytsearch`
+◦  ${prefix}ytsearch
+◦  ${prefix}tr`
 }
